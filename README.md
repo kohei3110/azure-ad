@@ -139,6 +139,10 @@ Just access to [http://localhost:6420](http://localhost:6420) and Sign in or Sig
 ## QA
 
 - Azure AD P1 で使用できる「ハイブリッドユーザの OnP 、クラウド両方へのアクセス」とは、 OnP の認証も Azure AD で賄うことができる、という意味を指している？
+<<<<<<< HEAD
     - https://docs.microsoft.com/ja-jp/azure/active-directory/fundamentals/active-directory-whatis#what-are-the-azure-ad-licenses
 - 「OnP ユーザによるセルフサービスパスワードリセットを可能にするクラウドの書き戻し機能」とは、 OnP ユーザがクラウドユーザのパスワードを書き換えるのか？
     - https://docs.microsoft.com/ja-jp/azure/active-directory/fundamentals/active-directory-whatis#what-are-the-azure-ad-licenses
+=======
+- 「OnP ユーザによるセルフサービスパスワードリセットを可能にするクラウドの書き戻し機能」とは、 OnP ユーザがクラウドユーザのパスワードを書き換えるのか？
+>>>>>>> fe2ab19760040572603bba620de71b93edc48fbe
