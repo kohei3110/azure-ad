@@ -1,10 +1,5 @@
 # Azure AD
 
-## 結論（あとで消す）
-
-- 社内の Azure AD テナントでは、 VS Subscription が許可されていないため、既存の VSSubscription 内のリソースを社内サブスクリプション配下に移動させることはできない。
-- ただ、ディレクトリを統一することで、既存の Subscription 配下のリソースを別の Subscription 配下へ移動させることは可能。
-
 ## Azure Active Directory とは
 
 Microsoft が提供するクラウドベースの ID & Access Management サービス。
