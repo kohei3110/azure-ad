@@ -1,10 +1,5 @@
 # Azure AD
 
-## 結論（あとで消す）
-
-- 社内の Azure AD テナントでは、 VS Subscription が許可されていないため、既存の VSSubscription 内のリソースを社内サブスクリプション配下に移動させることはできない。
-- ただ、ディレクトリを統一することで、既存の Subscription 配下のリソースを別の Subscription 配下へ移動させることは可能。
-
 ## Azure Active Directory とは
 
 Microsoft が提供するクラウドベースの ID & Access Management サービス。
@@ -144,4 +139,6 @@ Just access to [http://localhost:6420](http://localhost:6420) and Sign in or Sig
 ## QA
 
 - Azure AD P1 で使用できる「ハイブリッドユーザの OnP 、クラウド両方へのアクセス」とは、 OnP の認証も Azure AD で賄うことができる、という意味を指している？
+    - https://docs.microsoft.com/ja-jp/azure/active-directory/fundamentals/active-directory-whatis#what-are-the-azure-ad-licenses
 - 「OnP ユーザによるセルフサービスパスワードリセットを可能にするクラウドの書き戻し機能」とは、 OnP ユーザがクラウドユーザのパスワードを書き換えるのか？
+    - https://docs.microsoft.com/ja-jp/azure/active-directory/fundamentals/active-directory-whatis#what-are-the-azure-ad-licenses
